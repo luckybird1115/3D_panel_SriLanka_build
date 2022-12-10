@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><style>
+    .text {
+      font-size: 10px;
+      font-weight: 400;
+      font-style=normal;
+      font-family: "Gotham A", sans-serif;
+      fill: currentColor;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+  </style><text class="text" id="productCount" x="16" y="18">1</text><path d="M21 12V10C21 7 19 5 16 5C13 5 11 7 11 10V12M7 12H25L26 25H6L7 12Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"></path></svg>
